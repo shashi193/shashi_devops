@@ -1,0 +1,6 @@
+[submodule "lesson_1"]
+	path = lesson_1
+	url = https://github.com/shashi193/shashi_devops/lesson_1
+[submodule "GitRepo_1"]
+	path = GitRepo_1
+	url = https://github.com/AniketKhedekar/GitRepo_1
